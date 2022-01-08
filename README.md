@@ -1,5 +1,7 @@
 # README
 
+PRACTICING WITH GIT COMMANDS
+
 This README would normally document whatever steps are necessary to get the
 application up and running.
 
